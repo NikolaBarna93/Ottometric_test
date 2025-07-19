@@ -1,0 +1,7 @@
+DTID 8506 has 4 ENV events.
+DTID 8520 has 18 ENV events.
+DTID 8503 has 13 ENV events.
+DTID 8522 has 13 ENV events.
+DTID 8510 has 72 ENV events.
+DTID 8509 has 9 ENV events.
+DTID 8507 has 2 ENV events.

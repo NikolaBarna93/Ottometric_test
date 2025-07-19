@@ -1,0 +1,14 @@
+Lane Present EGO Left 	 calculated value does not match table value: 	 87.5% != 88.0%
+Lane Present EGO Right 	 calculated value does not match table value: 	 82.4% != 82.3%
+Lateral Position 30m EGO Left 	 calculated value matches table value: 	99.9%
+Lateral Position 30m EGO Right 	 calculated value matches table value: 	99.8%
+Lateral Position 60m EGO Left 	 calculated value matches table value: 	100.0%
+Lateral Position 60m EGO Right 	 calculated value does not match table value: 	 99.9% != 100.0%
+Lateral Position Conical EGO Left 	 calculated value matches table value: 	99.1%
+Lateral Position Conical EGO Right 	 calculated value matches table value: 	98.5%
+Type Classification Rate EGO Left 	 calculated value does not match table value: 	 81.5% != 81.9%
+Type Classification Rate EGO Right 	 calculated value does not match table value: 	 77.0% != 76.9%
+Color Host Lane Boundaries White EGO Left 	 calculated value does not match table value: 	 93.1% != 93.2%
+Color Host Lane Boundaries White EGO Right 	 calculated value does not match table value: 	 89.3% != 89.1%
+Color Host Lane Boundaries Yellow EGO Left 	 calculated value matches table value: 	100.0%
+Color Host Lane Boundaries Yellow EGO Right 	 calculated value matches table value: 	100.0%
