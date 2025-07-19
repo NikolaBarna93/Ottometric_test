@@ -17,7 +17,7 @@ def count_FN(driver, dtid, table):
         1 for row in all_rows
         if row_prefix in row.get_attribute("class")
     )
-    return (f"DTID {dtid} has {subrow_count} sub-rows.")
+    return (f"DTID {dtid} has {subrow_count} ENV events.")
     
 # Delete report file if it exists
 report_file = 'test2_report.txt'

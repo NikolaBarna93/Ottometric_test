@@ -38,10 +38,10 @@ def calculate_sum(driver, col_index, column_name):
     average = sum(values) / len(values)
     average = f"{round(average, 1)}%"
     if(average == value):
-        return (f"{column_name} calculated value matches calculated value: {average}")
+        return (f"{column_name} \t calculated value matches table value: \t{average}")
         
     else:
-        return (f"{column_name} calculated value does not match calculated value: {average} != {value}")
+        return (f"{column_name} \t calculated value does not match table value: \t {average} != {value}")
 
 
 report_file = 'test1_report.txt'
@@ -67,7 +67,7 @@ dropdownHelper.click_by_testid("FCM-drawer")
 dropdownHelper.click_by_testid("Lanes-drawer")
 dropdownHelper.wait_for_idle()
 
-# Wait for table to load, hardcoded, but only way it works
+# Wait for table to load
 time.sleep(1) 
 # Get needed table elements
 table = driver.find_element(By.CSS_SELECTOR,'[data-testid="table-center"]')
